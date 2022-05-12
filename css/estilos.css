@@ -37,3 +37,11 @@ body {
     background: white;
     padding: 1em;
 }
+#footer {
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    background-color: #aaa;
+}
