@@ -24,3 +24,11 @@ body {
 #container h1 {
     font-size: 20px;
 }
+#footer {
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+    background-color: #aaa;
+}
